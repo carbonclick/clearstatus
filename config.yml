@@ -12,7 +12,7 @@ params:
       link: http://my.carbon.click/
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
-  timezoneString: " UTC"
+  timezoneString: " New Zealand Standard Time"
   logo: /images/uploads/cc_mark_green.svg
   description_header: Information about <a class='text-grey-darkest' title='Visit
     carbonclick.com' href='https://www.carbonclick.com/'
