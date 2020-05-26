@@ -5,7 +5,7 @@ date: 2020-05-18T04:15:00.000Z
 status: resolved
 pinned: ""
 current_severity: disrupted
-max_severity: down
+max_severity: disrupted
 duration: 1 hour
 resolved_on: 2020-05-18T05:18:00.000Z
 affected:
