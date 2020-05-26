@@ -15,9 +15,10 @@ params:
   timezoneString: " UTC"
   logo: /images/clearstatus.svg
   description_header: Information about <a class='text-grey-darkest' title='Visit
-    carbonclick.com' href='https://www.carbonclick.com/'>CarbonClick</a> systems
-    operations.<br /> Subscribe to <a class='text-grey-darkest' href='%s'
-    >RSS</a><br />to be alerted of new events.
+    carbonclick.com' href='https://www.carbonclick.com/'
+    target='_blank'>CarbonClick</a> systems operations.<br /> Subscribe to <a
+    class='text-grey-darkest' href='%s' >RSS</a><br />to be alerted of new
+    events.
   copyrightHolder: CarbonClick Limited
   eventsPerPage: 10
   iconType: image/png
@@ -25,5 +26,6 @@ params:
     - All
   icon: /images/clearstatus.png
   description_footer: Visit <a class='text-grey-darkest' title='Visit
-    carbonclick.com' href='https://www.carbonclick.com/'>carbonclick.com</a> to
-    find out how you can make your business more climate friendly
+    carbonclick.com' href='https://www.carbonclick.com/'
+    target='_blank'>carbonclick.com</a> to find out how you can make your
+    business more climate friendly
