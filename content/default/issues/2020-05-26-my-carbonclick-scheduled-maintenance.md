@@ -13,4 +13,4 @@ affected:
 twitterFeed: ""
 enableComments: false
 ---
-Scheduled upgrade of My CarbonClick.
+Scheduled upgrade of My CarbonClick. No outage or degradation is anticipated.
