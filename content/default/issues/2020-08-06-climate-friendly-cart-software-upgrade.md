@@ -13,7 +13,7 @@ affected:
 twitterFeed: ""
 enableComments: true
 ---
-Update 10:45 :- Issue resolved. Monitering.
+Update 10:45 :- Issue resolved. Monitoring.
 
 \------------------------------------------------------------------------------------------------------------
 
