@@ -15,6 +15,6 @@ enableComments: true
 ---
 Update :- An external service we depend on during our app updates has gone down at the most inopportune moment. They have identified the issue, have resolved it and are waiting for the fix to propagate to their servers
 
-\------------------------------------------------------------------------------------------------------------------------------------------------------
+\------------------------------------------------------------------------------------------------------------
 
 Scheduled upgrade of Climate Friendly Cart. No outage will be required but minor degradation may be experienced.
