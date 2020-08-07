@@ -4,7 +4,7 @@ title: Climate Friendly Cart - Software Upgrade
 date: 2020-08-06T08:47:09.030Z
 status: in_progress
 pinned: ""
-current_severity: monitoring
+current_severity: ok
 max_severity: down
 duration: Expected - 1 hour
 resolved_on: 2020-08-06T08:47:09.067Z
